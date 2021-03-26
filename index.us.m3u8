@@ -18,12 +18,20 @@ http://37723998.to:2052/dale1/1234/43101?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="DIY2"
 http://supersonictv.live:25461/dalvin/dalvin/22080?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" group-title="Undefined",Charge!,Entertainment TV:Charge (Geo)
-https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/vTlQAIX.jpg" group-title="Entertainment;News;Undefined",Entertainment Tonight,ET Live,ET Live (Opt-1)
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/UuJQntj.jpg" group-title="Undefined",Planet Cannabis Entertainment
-https://nimble.dashstreams.net/onestudio/pce/chunks.m3u8?checkedby:iptvcat.com
+
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",E! ENTERTAINMENT
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/211393?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",E! ENTERTAINMENT
+http://ajstreamz.xyz:8080/Constance/constance/149764?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",E! ENTERTAINMENT-WEST
+http://ajstreamz.xyz:8080/Constance/constance/149765?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",E! Entertainment (East)(LB)
+http://ajstreamz.xyz:8080/Constance/constance/150175?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",E! Entertainment Television (EAST)
+http://37723998.to:2052/joe1/joe2/170774?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Entertainment
+http://live.iptv-ksa.com:80/yunis2/yunis2/198048?checkedby:iptvcat.com
 
 
 
