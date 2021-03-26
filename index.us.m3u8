@@ -1,22 +1,107 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SCI"
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
+http://37723998.to:2052/joe1/joe2/20819?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
 http://ajstreamz.xyz:8080/Constance/constance/149854?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="SCI1"
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
+http://pn.tvott.info:80/live/20totLY1KQ/PKINj2UxuY/81015.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
+http://rv.imax.re:80/4334276722/8502631953/81015?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81015?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="SCI2"
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Science(Y)
+http://latinoamericatv.vip:3334/Yan/Yan123/16807?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Undefined",Pluto TV Science
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=672&deviceId=563a970aa1a1f7fe7c9daad7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Popular Science
+http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="Undefined",Popular Science
+http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SCIENCE
+http://ajstreamz.xyz:8080/Constance/constance/149870?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Science
+http://37723998.to:2052/joe1/joe2/43118?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Science
+http://37723998.to:2052/dale1/1234/118342?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Science
+http://37723998.to:2052/dale1/1234/43118?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Science(LB)
+http://ajstreamz.xyz:8080/Constance/constance/150292?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Discovery Science
+http://supersonictv.live:25461/903310/034806/22077?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Science UHD
 http://supersonictv.live:25461/903310/034806/22145?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="GHTV"
-http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403537?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="GHTV1"
-http://ajstreamz.xyz:8080/Constance/constance/149857?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="GHTV2"
-http://rv.imax.re:80/4334276722/8502631953/81103?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="DIY"
-http://37723998.to:2052/dale1/1234/43008?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="DIY1"
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Science UHD
+http://supersonictv.live:25461/dalvin/dalvin/22145?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK
+http://37723998.to:2052/joe1/joe2/43008?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK
+http://37723998.to:2052/dale1/1234/126770?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK
+http://37723998.to:2052/joe1/joe2/126770?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK
 http://37723998.to:2052/dale1/1234/43101?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="DIY2"
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK
+http://ajstreamz.xyz:8080/Constance/constance/149855?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK
+http://37723998.to:2052/dale1/1234/43008?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81071?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY NETWORK HD
+http://rv.imax.re:80/4334276722/8502631953/81071?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DIY(LB)
+http://ajstreamz.xyz:8080/Constance/constance/150173?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA DIY Network UHD
 http://supersonictv.live:25461/dalvin/dalvin/22080?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403537?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV
+http://ajstreamz.xyz:8080/Constance/constance/149857?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV  EAST HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403538?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV (EAST)
+http://37723998.to:2052/joe1/joe2/126791?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV (EAST)
+http://37723998.to:2052/dale1/1234/126791?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV (East)
+http://37723998.to:2052/joe1/joe2/43029?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV (East)
+http://37723998.to:2052/joe1/joe2/67903?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV (East)
+http://37723998.to:2052/dale1/1234/67903?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV (East)
+http://37723998.to:2052/dale1/1234/43029?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV (East)(LB)
+http://ajstreamz.xyz:8080/Constance/constance/150216?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV (West)
+http://37723998.to:2052/joe1/joe2/43028?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV (West)
+http://37723998.to:2052/dale1/1234/43028?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV (West)(LB)
+http://ajstreamz.xyz:8080/Constance/constance/150217?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV HD
+http://pn.tvott.info:80/live/20totLY1KQ/PKINj2UxuY/81106.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81106?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV UHD
+http://pn.tvott.info:80/live/20totLY1KQ/PKINj2UxuY/81103.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV UHD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81103?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV UHD
+http://rv.imax.re:80/4334276722/8502631953/81103?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HGTV WEST
+http://ajstreamz.xyz:8080/Constance/constance/149858?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA HGTV East UHD
+http://supersonictv.live:25461/903310/034806/22101?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA HGTV West LHD
+http://supersonictv.live:25461/903310/034806/22103?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",E! ENTERTAINMENT
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/211393?checkedby:iptvcat.com
